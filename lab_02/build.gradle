@@ -7,6 +7,7 @@ repositories {
 
 dependencies {
 	implementation 'junit:junit:4.13.2'
+	implementation 'org.apache.commons:commons-csv:1.9.0'
 }
 
 mainClassName = 'csci2020u.lab_02.SimpleTest'
