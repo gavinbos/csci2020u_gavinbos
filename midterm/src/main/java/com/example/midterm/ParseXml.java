@@ -17,6 +17,11 @@ import java.io.File;
 import java.io.IOException;
 
 public class ParseXml {
+
+    /**
+     *
+     * @return Vbox layout containing the text parsed from XML file
+     */
     public VBox generateAboutPage() {
         VBox vBox = new VBox();
         vBox.setAlignment(Pos.CENTER);

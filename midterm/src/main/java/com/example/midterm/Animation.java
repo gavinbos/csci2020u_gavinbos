@@ -8,6 +8,10 @@ import javafx.util.Duration;
 
 public class Animation {
 
+    /**
+     *
+     * @return Pane containing Shape and path to animate
+     */
     public Pane animate() {
         Pane pane = new Pane();
         Path path = new Path();

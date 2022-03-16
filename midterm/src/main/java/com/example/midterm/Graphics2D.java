@@ -6,13 +6,16 @@ import javafx.scene.layout.Pane;
 
 public class Graphics2D {
 
-    // Utilizing various shapes to make the letters of my initials
+    /**
+     * @return Pane containing shapes forming my initials GB
+     */
     public Pane draw() {
         Pane pane = new Pane();
 
         Rectangle background = new Rectangle(0, 20, 270, 180);
         background.setFill(Color.BLACK);
 
+        // drawing the shapes that form the first letter
         Rectangle g_background = new Rectangle(15, 35, 100, 150);
         g_background.setFill(Color.AQUAMARINE);
         g_background.setArcHeight(20.0);
@@ -29,6 +32,7 @@ public class Graphics2D {
         gFill_3.setArcHeight(20.0);
         gFill_3.setArcWidth(20.0);
 
+        // drawing the shapes that form the second letter
         Rectangle b_background = new Rectangle(165, 35, 50, 150);
         b_background.setFill(Color.AQUAMARINE);
 
@@ -50,6 +54,7 @@ public class Graphics2D {
         Circle b_fill4 = new Circle(225, 145, 20);
         b_fill4.setFill(Color.BLACK);
 
+        // adding all shapes to the pane layout
         pane.getChildren().addAll(background, g_background, gFill_1, gFill_2, gFill_3, b_background,
                 b_circle_background1, b_circle_background2, b_fill1, b_fill2, b_fill3, b_fill4);
 
