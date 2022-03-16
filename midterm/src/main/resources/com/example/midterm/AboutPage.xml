@@ -1,0 +1,14 @@
+<info>
+    <student id= "100781902">
+        <name>Gavin Bosman</name>
+        <email>gavin.bosman@ontariotechu.net</email>
+    </student>
+
+    <software-description>
+        This application was developed
+        by Gavin Bosman for the CSCI2020U
+        midterm coding assignment. It
+        includes a simple animation,
+        some 2D graphics and this page.
+    </software-description>
+</info>
