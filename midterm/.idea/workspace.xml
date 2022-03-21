@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69be3d35-a293-451a-8583-754e812ea9fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/midterm/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/midterm/Animation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/midterm/Graphics2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/midterm/Graphics2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/midterm/ParseXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/midterm/ParseXml.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunManager">
